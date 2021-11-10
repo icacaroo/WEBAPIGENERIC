@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Biblioteca.Classes;
 
-namespace WEBAPIPARTNER.Controllers
+namespace WEBAPIGENERIC.Controllers
 {
     public class PatrimonioController : ApiController
     {

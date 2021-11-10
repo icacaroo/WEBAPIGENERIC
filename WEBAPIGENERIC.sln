@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPIPARTNER", "WEBAPIPARTNER\WEBAPIPARTNER.csproj", "{AA48626D-F3F0-4665-9ABA-937BAB5CF912}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPIGENERIC", "WEBAPIPARTNER\WEBAPIGENERIC.csproj", "{AA48626D-F3F0-4665-9ABA-937BAB5CF912}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "..\Biblioteca\Biblioteca\Biblioteca.csproj", "{15634F44-782D-46D5-BED0-2005A956355D}"
 EndProject
